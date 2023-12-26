@@ -7,7 +7,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
 
     if (email === 'cinebee@gmail.com' && password === 'demo123') {
         alert("Login successful!");
-        window.location.href = "index.html"; 
+        window.location.href = "home.html"; 
     } else {
         alert("Invalid credentials! Please try again.");
     }
