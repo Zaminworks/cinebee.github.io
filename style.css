@@ -1,0 +1,91 @@
+/* Body Css */
+.bg{
+    background-color: rgb(0, 0, 0);
+}
+
+/* Navbar Css */
+
+#logo{
+    color: white;
+}
+#nav-links{
+    color: white;
+}
+#nav-links:hover{
+    color: rgb(219, 19, 19);
+    transition: 0.2s;
+}
+/* hr css */
+.hr-color{
+    color: red;
+}
+
+/* best movies css */
+
+.heading{
+   
+        max-width: 968px;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 1.2rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        border-bottom: 1px solid red;
+        color: white;
+    
+}
+
+/* card Css */
+#card:hover{
+transform: translateY(2px);
+transition: all ease 0.3s;
+transform: translateX(3px);
+}
+.card-title{
+    text-align: center;
+    font-weight: 600;
+    font-style: italic;
+    font-family: cursive;
+    color: white;
+}
+#card-btn{
+    background-color: red;
+    color: black;
+    font-weight: 600;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: none;
+    border-radius: 50px;
+    font-weight: 500;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+/* Footer Css */
+.Credit{
+    color: red;
+    text-align: center;
+    background-color: white;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Credit:hover{
+    color: black; 
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+/* Banner Ad */
+
+.banner-ad{
+  border: 5px solid red;
+  overflow: hidden;
+  border-radius: 10px;
+}
+#banner-ad{
+    width: 100%;
+    height: auto;
+}

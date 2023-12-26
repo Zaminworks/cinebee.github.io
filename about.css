@@ -1,0 +1,47 @@
+.about-heading{
+    text-align: center;
+    color: red;
+    font-family: cursive;
+}
+.about-heading:hover {
+    text-decoration: 5px underline white;
+    transition: all ease 0.5s;
+    text-transform: uppercase;
+}
+
+.line{
+    color: red ;
+}
+
+.load-btn{
+   margin-left: 45%; 
+   border: none; 
+   background-color: red;
+   color: white;
+   font-family: cursive;
+   border-radius: 10px;
+   height: 40px;
+   width: 100px;
+}
+.load-btn:hover{
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.load-para{
+    color: white;
+    font-family: cursive;
+   font-size: 22px;
+}
+#hide{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
